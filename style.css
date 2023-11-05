@@ -1,0 +1,54 @@
+/* UNIVERSAL SELECTOR */
+
+/**{
+  color: red;
+}*/
+
+/* TYPE SELECTOR */
+/* SINGLE LINE SELECTOR */
+
+/*h1{
+  color: red;
+}*/
+
+/* MULTIPLE LINE SELECTOR */
+
+/*h2,span{
+  color: red;
+}*/
+
+/* CLASS SELECTOR */
+
+/*.intrest{
+  color: red;
+}*/
+
+/* ID SELECTOR */
+
+/*#hero{
+  color:red;
+}*/
+
+/* CHILD SELECTOR */
+
+/*span> p{
+  color: red;
+}*/
+
+/* DESENDANT SELECTOR*/
+
+/*div p{
+  color: red;
+}*/
+
+/* ADJUCENT SIBLING SELECTOR */
+
+/*h1+p{
+  color: red;
+}*/
+
+/* GENERAL SIBLING SELECTOR */
+
+h1~p{
+  color: red;
+}
